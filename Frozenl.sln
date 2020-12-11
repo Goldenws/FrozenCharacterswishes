@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frozenl", "Frozenl\Frozenl.csproj", "{AAF5A680-FCDD-4942-8256-D08EA47F5FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoPresentsForYou", "NoPresentsForYou\NoPresentsForYou.csproj", "{FC190AC2-DA46-428E-86AB-810080E12AB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF5A680-FCDD-4942-8256-D08EA47F5FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF5A680-FCDD-4942-8256-D08EA47F5FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF5A680-FCDD-4942-8256-D08EA47F5FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF5A680-FCDD-4942-8256-D08EA47F5FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC190AC2-DA46-428E-86AB-810080E12AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC190AC2-DA46-428E-86AB-810080E12AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC190AC2-DA46-428E-86AB-810080E12AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC190AC2-DA46-428E-86AB-810080E12AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFB1AE5-DD39-44B0-BC95-74F9E78B49FB}
+	EndGlobalSection
+EndGlobal

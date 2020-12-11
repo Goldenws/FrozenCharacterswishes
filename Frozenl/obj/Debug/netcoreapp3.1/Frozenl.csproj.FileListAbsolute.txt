@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.exe
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.deps.json
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.dll
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\bin\Debug\netcoreapp3.1\Frozenl.pdb
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.dll
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.pdb
+C:\Users\Roland Strod\source\repos\Frozenl\Frozenl\obj\Debug\netcoreapp3.1\Frozenl.genruntimeconfig.cache
